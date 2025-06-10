@@ -1,3 +1,5 @@
+Update to version : v.0.54.11
+
 ![Metabase](metabase.png)
 
 # Deploying Metabase to Scalingo
